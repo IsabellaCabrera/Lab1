@@ -1,0 +1,4 @@
+NOMBRE: Isabella
+APELLIDO: Cabrera Sogamoso
+FECHA_DE_NACIMIENTO: 2003-08-14.
+
